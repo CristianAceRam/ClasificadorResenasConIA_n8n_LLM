@@ -59,7 +59,7 @@ Dos workflows en n8n:
 <img width="1732" height="562" alt="Workflow Resena" src="./media/RESENAWorkflow.png" />
 
 - **Panel:** un endpoint JSON y la página HTML.
-<img width="940" height="492" alt="Workflow del panel" src="./media/PANELWorkflow.png"/>
+<img width="1002" height="482" alt="Workflow del panel" src="./media/PANELWorkflow.png"/>
 
 
 Infraestructura: n8n Community Edition en Docker Compose, en un portátil con Windows 11 (WSL2). El acceso público iba por túnel: Tailscale Funnel como opción principal y Cloudflare Tunnel como plan B, que acabó usándose.
